@@ -1,49 +1,45 @@
 <div align="center">
 
-# Juan José Velásquez Cubero
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=3DDC84&center=true&vCenter=true&width=780&lines=Juan+Jos%C3%A9+Vel%C3%A1squez+Cubero;I+ship+product.+Not+tutorials." alt="name" />
 
-### Systems developer · automations · apps that close the sale
-### Desenvolvedor de sistemas, automações e apps que fecham o pedido
+**React Native · TypeScript · Expo**  
+Apps that close the sale — vitrine → pedido → PIX → painel
 
-**Rio Grande do Sul, Brazil** · React Native · TypeScript · commercial operations
+Rio Grande do Sul, Brazil · PT native · ES native · EN B2
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![English](https://img.shields.io/badge/English-B2-000000?style=for-the-badge)](#languages--idiomas)
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-Nativo-000000?style=for-the-badge)](#languages--idiomas)
-[![Español](https://img.shields.io/badge/Espa%C3%B1ol-Nativo-000000?style=for-the-badge)](#languages--idiomas)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&background=0D1117&lines=React+Native+%2B+Expo+SDK+54;TypeScript+from+zero+to+pocket+app;Storefront+%E2%86%92+order+%E2%86%92+PIX;I+build+what+commerce+actually+uses)](https://github.com/juanjosevelasquezcubero)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3400&pause=900&color=3DDC84&center=true&vCenter=true&width=720&lines=React+Native+%2B+Expo+SDK+54;TypeScript+do+zero+ao+app+no+bolso;Storefront+%E2%86%92+order+%E2%86%92+PIX;Construo+o+que+o+com%C3%A9rcio+usa)](https://github.com/juanjosevelasquezcubero)
+
+[![Profile views](https://komarev.com/ghpvc/?username=juanjosevelasquezcubero&label=Profile+views&color=3ddc84&style=flat)](https://github.com/juanjosevelasquezcubero)
 
 </div>
 
 ---
 
-## About / Sobre
+## Now / Agora
 
-I don't collect tutorials. I **ship product**.  
-Eu não coleciono tutorial. Eu **entrego produto**.
+Building commercial apps a real store can use the same day.  
+Hashtag (React Native 300h) · DIO (Python) · SCTEC (Santa Catarina).
 
-Training: Hashtag (React Native), DIO (Python), SCTEC (Santa Catarina).  
-What leaves my hands looks like a store — storefront, order, payment, dashboard — not a forgotten exercise.
-
-- **Focus:** mobile and web apps a real business can use the same day
+- **Focus:** mobile + web that take an order and get paid
 - **Style:** right component, right folder, state that doesn't lie
-- **Languages:** Portuguese · Spanish · English · code
+- **Open to:** React Native role · freelance sério · automação de loja
 
 ---
 
 ## Featured / Em destaque
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[Praça](https://github.com/juanjosevelasquezcubero/praca)** | Local professionals directory by city in Brazil — search, listing, panel | TypeScript · React |
-| **[Mercado das Frutas](https://mercado-das-frutas.vercel.app)** | Pick items, close the order, pay with PIX | TypeScript · React |
-| **[CineMatch](https://github.com/juanjosevelasquezcubero/CineMatch-JS-Onboarding-Interativo-de-Recomenda-o-de-Streaming)** | Interactive streaming recommendation onboarding — SCTEC / SC | JavaScript |
-| **[36 Bichos](https://github.com/juanjosevelasquezcubero/36-bichos)** | Educational simulation (Expo) — signup, session, app flow — no real money | TypeScript · React Native · Expo |
+| | Project | Signal |
+| :---: | :--- | :--- |
+| 01 | **[Mercado das Frutas](https://mercado-das-frutas.vercel.app)** | Live store: catalog → cart → PIX · TypeScript + React |
+| 02 | **[Praça](https://github.com/juanjosevelasquezcubero/praca)** | Local pros directory by city in Brazil · TypeScript + React |
+| 03 | **[36 Bichos](https://github.com/juanjosevelasquezcubero/36-bichos)** | Expo app flow: signup, session, screens · RN + TypeScript |
+| 04 | **[CineMatch](https://github.com/juanjosevelasquezcubero/CineMatch-JS-Onboarding-Interativo-de-Recomenda-o-de-Streaming)** | Interactive streaming onboarding · SCTEC / JavaScript |
 
 ---
 
@@ -54,52 +50,38 @@ What leaves my hands looks like a store — storefront, order, payment, dashboar
 </p>
 
 ```text
-Mobile     React Native · Expo SDK 54 · TypeScript
-Web        React · JavaScript · TypeScript
-Craft      Git · product before decoration
+Mobile     React Native  ·  Expo SDK 54  ·  TypeScript
+Web        React  ·  JavaScript  ·  TypeScript
+Craft      Git  ·  product before decoration
 ```
-
----
-
-## Education / Formação
-
-- **Hashtag Treinamentos** — React Native Impressionador (300h)
-- **DIO** — Python track
-- **SCTEC** — technical journey (Santa Catarina, Brazil)
 
 ---
 
 ## Languages / Idiomas
 
-| Language | Level |
-| :--- | :--- |
-| Português | Native |
-| Español | Native |
-| English | Professional working (B2) — README, code, interviews |
+`Português` native · `Español` native · `English` professional B2
 
 ---
 
-## Rhythm / Ritmo
+## Rhythm
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juanjosevelasquezcubero&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosevelasquezcubero&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&langs_count=6&title_color=58A6FF&text_color=C9D1D9" alt="langs" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=juanjosevelasquezcubero&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&count_private=true&title_color=3DDC84&icon_color=3DDC84&text_color=C9D1D9&ring_color=3DDC84" alt="stats" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosevelasquezcubero&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&langs_count=6&title_color=3DDC84&text_color=C9D1D9" alt="langs" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=juanjosevelasquezcubero&theme=github-dark-blue&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=juanjosevelasquezcubero&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84" alt="streak" />
 </p>
 
 ---
 
-## Contact / Contato
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanjosevelasquezcubero)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=3DDC84)](https://github.com/juanjosevelasquezcubero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jose-velasquez-cubero-b6793325a/)
-[![E-mail](https://img.shields.io/badge/jabushicabajuan%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabushicabajuan@gmail.com)
+[![E-mail](https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=3DDC84)](mailto:jabushicabajuan@gmail.com)
 
-**Open to:** store apps · automation · React Native · first role / serious freelance
+**Aberto a:** app de loja · React Native · primeiro emprego / freelance sério
 
 </div>
